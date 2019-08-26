@@ -3,10 +3,10 @@
     "name": "Jacob Tran",
     "label": "Data Scientist",
     "picture": "https://xlamb1412.github.io/images/avatar.png",
-    "email": "xl4mb@protonmail.com",
-    "phone": "0451011412",
+    "email": "xl4mb at protonmail dot com",
+    "phone": "0451011xxx",
     "website": "https://xlamb1412.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii.",
+    "summary": "I am a Data Scientist at VNG, a Vietnam's unicorn startup company. I got a master of statistical science at La Trobe University (Australia).",
     "location": {
       "address": "",
       "postalCode": "3083",
@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "xlamb1412",
-        "url": "http://github.com/xlamb1412"
+        "url": "https://github.com/xlamb1412"
       }
     ]
   },
@@ -44,25 +44,21 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Advanced",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python",
+        "SQL",
+        "MongoDB",
+        "Scala"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
