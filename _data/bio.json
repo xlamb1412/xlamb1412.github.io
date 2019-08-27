@@ -65,8 +65,8 @@
       "institution": "La Trobe University, VIC, AUS",
       "area": "Statistical Science",
       "studyType": "M.S.",
-      "startDate": "2015-02",
-      "endDate": "2017-04",
+      "startDate": "2015",
+      "endDate": "2017",
       "gpa": "",
       "courses": [
       ]
@@ -77,7 +77,7 @@
       "company": "VNG corporation, HCM, VN",
       "position": "Data Scientist",
       "website": "https://www.vng.com.vn/",
-      "startDate": "2019-06",
+      "startDate": "2019-06-01",
       "endDate": "Present",
       "summary": "Working with Problems of Graph Knowledge",
       "highlights": [
@@ -88,8 +88,8 @@
       "company": "Sentifi, HCM, VN",
       "position": "Data Scientist",
       "website": "https://sentifi.com",
-      "startDate": "2018-03",
-      "endDate": "2019-05",
+      "startDate": "2018-03-01",
+      "endDate": "2019-05-31",
       "summary": "",
       "highlights": [
       ]
