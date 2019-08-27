@@ -24,10 +24,8 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Programming",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
@@ -64,11 +62,11 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "La Trobe University, VIC, AUS",
+      "area": "Statistical Science",
+      "studyType": "M.S.",
+      "startDate": "2015-02",
+      "endDate": "2017-04",
       "gpa": "",
       "courses": [
       ]
@@ -76,27 +74,24 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "VNG corporation, HCM, VN",
+      "position": "Data Scientist",
+      "website": "https://www.vng.com.vn/",
+      "startDate": "2019-06",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Working with Problems of Graph Knowledge",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+	"I'm trying to taclkes some interesting challenges in Zalo tool by using graph methods"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Sentifi, HCM, VN",
+      "position": "Data Scientist",
+      "website": "https://sentifi.com",
+      "startDate": "2018-03",
+      "endDate": "2019-05",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
