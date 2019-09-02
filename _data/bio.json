@@ -22,6 +22,18 @@
       }
     ]
   },
+  "Summary": [
+    {
+      "*": "Highly numerate, mathematical and good programming skill with R and Python",
+      "keywords": [
+      ]
+    },
+    {
+      "*": "Hard working, cooperative and delivery-oriented.",
+      "keywords": [
+      ]
+    }
+  ],
   "interests": [
     {
       "name": "Programming",
@@ -60,18 +72,6 @@
       ]
     }
   ],
-  "education": [
-    {
-      "institution": "La Trobe University, VIC, AUS",
-      "area": "Statistical Science",
-      "studyType": "M.S.",
-      "startDate": "2015",
-      "endDate": "2017",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
   "work": [
     {
       "company": "VNG corporation, HCM, VN",
@@ -81,7 +81,7 @@
       "endDate": "Present",
       "summary": "Working with Problems of Graph Knowledge",
       "highlights": [
-	"I'm trying to taclkes some interesting challenges in Zalo tool by using graph methods"
+	"I'm trying to taclkes some interesting challenges of Zalo's applications, by using graph methods"
       ]
     },
     {
@@ -92,6 +92,18 @@
       "endDate": "2019-05-31",
       "summary": "",
       "highlights": [
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "La Trobe University, VIC, AUS",
+      "area": "Statistical Science",
+      "studyType": "M.S.",
+      "startDate": "2015",
+      "endDate": "2017",
+      "gpa": "",
+      "courses": [
       ]
     }
   ],
