@@ -25,6 +25,8 @@ AS a Data Scientist (DS), I'm always hungry for computation power. I have quite 
 Một điều nửa là bài này không dành cho các bạn giàu, giàu thì thuê server của Azure với AWS đi cho lẹ :D, còn GCP thì ahihi.
 
 
+Here is some code that illustrates how we read values from the line sensors:
+
 ```js
 byte ADCRead(byte ch)
 {
