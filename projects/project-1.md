@@ -24,7 +24,5 @@ As a Data Scientist (DS), I'm always hungry for computation power. I have quite 
 
 Bài hướng dẫn này được chia sẽ bởi một top team kaggle từng có hạng 22 trên thế giới, trong đó có vài DS là người Việt (tất nhiên là không phải mình). Một điều nửa là bài này không dành cho các bạn có điều kiện, có điều kiện thì thuê server của Azure với AWS đi cho lẹ :D, còn GCP thì ahihi. Điều cuối cùng là bài hướng dẫn này thật ra là một bài dịch từ link ở phía trên, có thêm một số thứ để một DS không giỏi về engineer cũng có thể làm được. 
 
-
-
-
+continute to update...
 
