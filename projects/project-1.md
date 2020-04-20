@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: [Tutorial] Set-up Connection a Linux Machine Behind a Home Router using SSH Tunnels by Vietnamese.
-permalink: projects/micromouse
+permalink: projects/Set-up Connection a Linux Machine Behind a Home Router using SSH Tunnels by Vietnamese.
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-20
 labels:
