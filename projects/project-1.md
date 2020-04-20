@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Set-up Connection a Linux Machine Behind a Home Router using SSH Tunnels by Vietnamese.
-permalink: projects/ssh-tunnels
+permalink: projects/ssh-tunnels-vietnamese
 # All dates must be YYYY-MM-DD format!
 date: 2020-04-20
 labels:
@@ -25,19 +25,7 @@ AS a Data Scientist (DS), I'm always hungry for computation power. I have quite 
 Một điều nửa là bài này không dành cho các bạn giàu, giàu thì thuê server của Azure với AWS đi cho lẹ :D, còn GCP thì ahihi.
 
 
-Here is some code that illustrates how we read values from the line sensors:
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
 
 You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
 
