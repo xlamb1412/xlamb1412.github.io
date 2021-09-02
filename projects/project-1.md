@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Thiết lập Asus router để chặn (hạn chế) quảng cáo (đặc biệt trên youtube) và internet cho gia đình bạn an toàn hơn.
+title: Thiết lập Asus router để chặn (hạn chế) quảng cáo (đặc biệt trên youtube) và cải thiện an toàn cho internet gia đinh.
 permalink: projects/ssh-tunnels-vietnamese
 # All dates must be YYYY-MM-DD format!
 date: 2021-09-02
