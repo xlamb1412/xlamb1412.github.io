@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Jacob Tran",
-    "label": "Data Scientist",
+    "label": "Data on Cloud Platform (AWS - Azure)",
     "picture": "https://xlamb1412.github.io/images/avatar.png",
     "email": "xl4mb at protonmail dot com",
     "phone": "0451011xxx",
     "website": "https://xlamb1412.github.io",
-    "summary": "I am a Data Scientist at Zalo (VNG), a Vietnam's unicorn startup company. I got the master of statistical science at La Trobe University (Australia).",
+    "summary": "I'm an average folk with positive attitude.",
     "location": {
       "address": "",
       "postalCode": "3083",
@@ -47,7 +47,10 @@
         "Python",
         "SQL",
         "MongoDB",
-        "Scala"
+        "Spark",
+        "AWS",
+        "Azure",
+        "Terraform"
       ]
     },
     {
@@ -56,7 +59,7 @@
       "keywords": [
         "Windows",
         "Ubuntu",
-        "Git/GitHub",
+        "Git/GitHub"
       ]
     }
   ],
@@ -74,24 +77,25 @@
   ],
   "work": [
     {
-      "company": "Zalo (VNG corporation), HCM, VN",
+      "company": "AiDA Technology, HCM, VN",
       "position": "Data Scientist",
-      "website": "https://www.vng.com.vn/",
-      "startDate": "2019-06-01",
-      "endDate": "Present",
-      "summary": "Working with Problems of Graph Knowledge",
+      "website": "https://www.aidatech.io//",
+      "startDate": "2019-10",
+      "endDate": "2020-08",
+      "summary": "Hand-on AI&ML in financial industry",
       "highlights": [
-	"I'm trying to tackles some interesting challenges of Zalo's applications, by using graph methods"
+	"Try to build up products to solve realistic problems."
       ]
     },
     {
-      "company": "Sentifi, HCM, VN",
+      "company": "Zalo (VNG corporation), HCM, VN",
       "position": "Data Scientist",
-      "website": "https://sentifi.com",
-      "startDate": "2018-03-01",
-      "endDate": "2019-05-31",
-      "summary": "",
+      "website": "https://www.vng.com.vn/",
+      "startDate": "2019-03",
+      "endDate": "2019-10",
+      "summary": "Working with Problems of Graph Knowledge",
       "highlights": [
+	"I'm trying to tackles some interesting challenges of Zalo's applications, by using graph methods"
       ]
     }
   ],
